@@ -1,0 +1,2 @@
+# RatGo
+A remote access tool (also widely known as RAT) is a tool that helps build trojans with ease. Setup Instructions are found in SETUPHELP. DISCLAIMER! I DO NOT CONDONE HACKING AND / OR TAKING CONTROL OF OTHER INDIVISUAL'S COMPUTER! I WILL NOT TAKE RESPONSABILITY FOR ANY ACTIONS AND / OR PUNISHMENTS FROM YOUR TROJAN! YOU HAVE BEEN WARNED.
