@@ -15,7 +15,7 @@ Pro version: Releseing a pro version soon late next week first 10 users will hav
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-DISCLAIMER I DO NOT ENDORSE ANY HACKING OR MALWARE ATTACKING, THIS RAT BUILDER WAS MADE FOR EDUCATINAL PURPOSE ONLY
+DISCLAIMER I DO NOT ENDORSE ANY HACKING OR MALWARE ATTACKING, THIS RAT BUILDER WAS MADE FOR EDUCATINAL PURPOSE ONLY.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
