@@ -1,1 +1,1 @@
-A cookie builder is a tool that helps build cookie loggers with ease. Setup Instructions are found in SETUPHELP. DISCLAIMER! I DO NOT CONDONE HACKING, I WILL NOT TAKE RESPONSABILITY FOR ANY ACTIONS AND / OR PUNISHMENTS FROM YOUR LOGGER! YOU HAVE BEEN WARNED.
+A 2FaBypasser is a tool that helps bypassing the email 2fa with ease. Setup Instructions are found in SETUPHELP. DISCLAIMER! I DO NOT CONDONE HACKING, I WILL NOT TAKE RESPONSABILITY FOR ANY ACTIONS AND / OR PUNISHMENTS THE BYPASSER! YOU HAVE BEEN WARNED.
